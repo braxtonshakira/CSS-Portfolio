@@ -7,3 +7,4 @@ In this Project I decorated a mock portfolio with CSS.
 4. Align elements
 5. Resize images and manipulate border radius
 6. Assign different cursors to different elements. 
+7. Linked CSS Stylesheet to HTML
