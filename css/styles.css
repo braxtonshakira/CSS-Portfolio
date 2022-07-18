@@ -1,0 +1,12 @@
+#body{
+    background-color: tan; opacity: 1; font-family: 'Courier New', Courier, monospace;
+}
+.center{
+    text-align: center;
+}
+.images{
+    height: 200px; width: 200px; border-radius: 25px;
+}
+.images, .projects {
+    cursor: pointer;
+}
